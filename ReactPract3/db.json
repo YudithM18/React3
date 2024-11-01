@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "5f9b",
+      "username": "Paula",
+      "correo": "Marin@gmail.com",
+      "pass": "123"
+    }
+  ],
+  "Tareas": [
+    {
+      "id": "c702",
+      "Tarea": "Limpiar Estanteria 65 y 34",
+      "Fecha": "Activo. Fecha limite: Mañana 7pm(NOTA MAÑANA LLEGA INSPECCION)"
+    },
+    {
+      "id": "9d61",
+      "Tarea": "Ordenar encargo de Libros",
+      "Fecha": "En Espera.. LLega Miercoles : Hora aproximada 3pm"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.navegar{
+    display: grid;
+    grid-template-columns: 150px 100px 100px 100px;
+    background-color: rgb(3, 129, 212);
+    position: relative;
+    bottom: 10px;
+    right: 6px;
+    inline-size: 1363px;
+    justify-content: end;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+}

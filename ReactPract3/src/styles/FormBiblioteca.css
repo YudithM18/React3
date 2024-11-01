@@ -1,0 +1,12 @@
+.ContenedorB{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    grid-template-rows: 300px 300px 300px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.imagLibro{
+    width: 180px;
+    height: 281px;
+}

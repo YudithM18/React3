@@ -1,0 +1,29 @@
+.ContenedorAgregar{
+    text-align: center;
+    width: 600px;
+    padding: 30px;
+    background-color: skyblue;
+    box-shadow: 7px 13px 38px black;
+    margin-left: 350px;
+}
+
+.inpu{
+    width: 500px;
+    height: 30px;
+}
+
+.ContenedorTareas{
+    text-align: center;
+    width: 600px;
+    padding: 30px;
+    background-color: rgb(98, 134, 148);
+    box-shadow: 7px 13px 38px black;
+    margin-left: 350px;
+}
+
+
+.TituloT{
+    font-size: xx-large;
+    margin-left: 20px;
+    color:rgb(0, 0, 77);
+}
